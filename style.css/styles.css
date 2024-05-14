@@ -51,14 +51,14 @@ header {
     height: auto;
 }
 
-.post-actions {
+.post-iconos-abajo {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
 }
 
-.left-actions i {
+.left-iconos-abajo i {
     margin-right: 10px;
 }
 
@@ -67,7 +67,7 @@ header {
     font-size: 14px;
 }
 
-.post-caption {
+.texto-relleno {
     padding: 10px;
     font-size: 14px;
 }
